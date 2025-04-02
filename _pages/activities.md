@@ -10,7 +10,7 @@ published: true
 Galvanizing & harmonizing old and new tools & technologies for containment of vectors and sustained control/ elimination of VBDs*". "The Society for Vector Ecology (SOVE), India " at Indian Council of Medical Research (ICMR)- Vector Control Research Centre(VCRC), Puducherry, India.
 {: reversed="reversed"}
 
-1. Senior Research Fellowship by Indian Council of Medical Research (ICMR) 
+1. Senior Research Fellowship by Indian Council of Medical Research (ICMR)
 
 #### Conference and Workshops 
 0. [iSOVECon 2023](http://www.soveindia.org/downloads/First_Circular_iSOVE_Final_2.pdf) - "<i>THE SECOND INTERNATIONAL CONFERENCE of The Society for Vector Ecology (SOVE), India</i>",13th to 16th March 2023 at ICMR-VCRC, Puducherry, India
